@@ -1,3 +1,2 @@
-spring:
-  redis:
-    port: 8777
+server:
+  port: 8770
