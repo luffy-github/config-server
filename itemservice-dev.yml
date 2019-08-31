@@ -1,3 +1,2 @@
-spring:
-  redis:
-    port: 9999
+server:
+  port: 8765
